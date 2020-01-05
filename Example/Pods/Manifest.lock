@@ -1,0 +1,16 @@
+PODS:
+  - YNURLProtocol (0.1.0)
+
+DEPENDENCIES:
+  - YNURLProtocol (from `../`)
+
+EXTERNAL SOURCES:
+  YNURLProtocol:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YNURLProtocol: 62cab857be347ebb3ca5444ec78a74140c2f607e
+
+PODFILE CHECKSUM: 61a7eff37c3dc85c1a8b5501a5a2a05edb13789d
+
+COCOAPODS: 1.7.2

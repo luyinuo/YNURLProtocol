@@ -7,11 +7,13 @@
 //
 
 #import "YNAppDelegate.h"
-
+#import "YNURLProtocol.h"
 @implementation YNAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    [NSURLProtocol registerClass:[YNURLProtocol class]];
+    [YNURLProtocol test];
     // Override point for customization after application launch.
     return YES;
 }

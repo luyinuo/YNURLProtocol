@@ -1,0 +1,22 @@
+{
+  "name": "YNURLProtocol",
+  "version": "0.1.0",
+  "summary": "A short description of YNURLProtocol.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luyinuo/YNURLProtocol",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luyinuo": "yinuolu@163.com"
+  },
+  "source": {
+    "git": "https://github.com/luyinuo/YNURLProtocol.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YNURLProtocol/Classes/**/*"
+}

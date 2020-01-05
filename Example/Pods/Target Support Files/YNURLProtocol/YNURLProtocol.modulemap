@@ -1,0 +1,6 @@
+framework module YNURLProtocol {
+  umbrella header "YNURLProtocol-umbrella.h"
+
+  export *
+  module * { export * }
+}
